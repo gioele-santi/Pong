@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/269718__michorvath__ping-pong-ball-hit.wav-0e89d82bd891e5dd8bc9c50cf2ecbcbd.sample"
+
+[deps]
+
+source_file="res://269718__michorvath__ping-pong-ball-hit.wav"
+dest_files=[ "res://.import/269718__michorvath__ping-pong-ball-hit.wav-0e89d82bd891e5dd8bc9c50cf2ecbcbd.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
